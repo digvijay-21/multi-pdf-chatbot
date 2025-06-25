@@ -1,7 +1,11 @@
-streamlit
 langchain
-openai
 PyPDF2
 python-dotenv
-firebase-admin
-requests
+streamlit
+openai
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+InstructorEmbedding
+sentence-transformers
