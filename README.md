@@ -83,7 +83,7 @@ multi-pdf-chatbot/
 ├── requirements.txt        ← Python dependencies
 ├── .gitignore              ← Files to ignore in Git
 ├── serviceAccountKey.json  ← Firebase Admin SDK
-├── architecture.png     ← Visual architecture or sequence diagram
+├── architecture.jpg     ← Visual architecture or sequence diagram
 └── README.md
 ```
 
@@ -123,7 +123,7 @@ FIREBASE_API_KEY=your_key
 
 Here is a high-level architecture of the project:
 
-![App Flow](architecture.png)
+![App Flow](architecture.jpg)
 
 ---
 
