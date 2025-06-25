@@ -33,6 +33,14 @@ This is a clean AI-powered chatbot built using **Streamlit**, **LangChain**, and
 
 ---
 
+### 📄 App Architecture
+
+Here is a high-level architecture of the project:
+
+![App Flow](architecture.jpg)
+
+---
+
 ## 🧳 Local Setup Instructions
 
 ### 1. Clone the repository
@@ -118,12 +126,6 @@ FIREBASE_API_KEY=your_key
 
 **Working App:** [https://multi-pdf-chatbot.streamlit.app](https://multi-pdf-chatbot.streamlit.app)  
 > Feel free to test the features and explore!
-
-### 📄 App Architecture
-
-Here is a high-level architecture of the project:
-
-![App Flow](architecture.jpg)
 
 ---
 
