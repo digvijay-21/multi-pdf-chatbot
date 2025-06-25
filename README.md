@@ -6,7 +6,6 @@ This is a clean AI-powered chatbot built using **Streamlit**, **LangChain**, and
 - Ask natural language questions 🤔
 - Get intelligent, context-aware answers powered by LLMs 🧠
 
-> ✅ No message storage or database is used — just Firebase Auth and local session state.
 
 ---
 
@@ -83,9 +82,8 @@ multi-pdf-chatbot/
 ├── .env                    ← Environment variables (API key)
 ├── requirements.txt        ← Python dependencies
 ├── .gitignore              ← Files to ignore in Git
-├── serviceAccountKey.json  ← Firebase Admin SDK (do not commit)
-├── assets/
-│   └── architecture.png     ← Visual architecture or sequence diagram
+├── serviceAccountKey.json  ← Firebase Admin SDK
+├── architecture.png     ← Visual architecture or sequence diagram
 └── README.md
 ```
 
@@ -125,7 +123,7 @@ FIREBASE_API_KEY=your_key
 
 Here is a high-level architecture of the project:
 
-![App Flow](assets/architecture.png)
+![App Flow](architecture.png)
 
 ---
 
