@@ -10,3 +10,4 @@ tiktoken
 huggingface-hub
 InstructorEmbedding
 sentence-transformers
+firebase-admin
